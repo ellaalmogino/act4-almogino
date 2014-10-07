@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# act4-almogino
+#
+
+projectname: act4-almogino
+vendorid: com.almogino
+mainmodule: com.almogino.act4almogino
